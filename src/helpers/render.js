@@ -1,0 +1,16 @@
+import two from "../img/2.png";
+import three from "../img/3.png";
+import four from "../img/4.png";
+import five from "../img/5.png";
+import six from "../img/6.png";
+import seven from "../img/7.png";
+import eight from "../img/8.png";
+import nine from "../img/9.png";
+import ten from "../img/10.png";
+import jack from "../img/jack.png";
+import queen from "../img/queen.png";
+import king from "../img/king.png";
+import ace from "../img/ace.png";
+import back from "../img/card back.png";
+import { useAtom } from "jotai";
+import { playerHand, dealerHand } from "./atoms";
