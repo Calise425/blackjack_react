@@ -12,5 +12,8 @@ import queen from "../img/queen.png";
 import king from "../img/king.png";
 import ace from "../img/ace.png";
 import back from "../img/card back.png";
+import hitMePic from "../img/button_hit-me.png";
+import holdPic from "../img/button_hold.png";
+import playAgain from "../img/button_play-again.png";
 import { useAtom } from "jotai";
 import { playerHand, dealerHand } from "./atoms";
